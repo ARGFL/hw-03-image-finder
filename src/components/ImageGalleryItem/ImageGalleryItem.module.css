@@ -1,0 +1,8 @@
+.galleryItem img {
+    width: 100%;
+    height: 300px; /* În funcție de ce înălțime preferi */
+    object-fit: cover; /* Asigură-te că imaginea este ajustată fără deformare */
+    
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
